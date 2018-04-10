@@ -1,3 +1,4 @@
+// Java Practice
 class Dog
 {
 	int size;
