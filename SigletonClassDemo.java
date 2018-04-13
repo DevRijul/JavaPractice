@@ -1,5 +1,5 @@
 
-public class Main {
+public class SigletonClassDemo {
 	public static void main(String[] args) {
 		Singleton s1 = Singleton.getSingletonInstance();//Private constructor can't be called
 		Singleton s2 = Singleton.getSingletonInstance();
